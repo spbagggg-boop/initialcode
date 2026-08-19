@@ -1,0 +1,15 @@
+@font-face{font-family:"Pretendard";src:url("fonts/d59e0be9.woff2") format("woff2");font-weight:500;font-display:swap}
+@font-face{font-family:"Pretendard";src:url("fonts/c85e3c0c.woff2") format("woff2");font-weight:600;font-display:swap}
+@font-face{font-family:"Pretendard";src:url("fonts/2316200f.woff2") format("woff2");font-weight:800;font-display:swap}
+@font-face{font-family:"Pretendard";src:url("fonts/90711c18.woff2") format("woff2");font-weight:900;font-display:swap}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{margin:0;background:#E7DDD1;min-width:1000px}
+#dc-root,#dc-root *{box-sizing:border-box}
+#dc-root{width:1000px!important;max-width:1000px!important;margin:0 auto!important}
+#dc-root img{max-width:100%}
+a{color:#034EC9;text-decoration:none}
+a:hover{color:#EF6E7C}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+@keyframes marquee{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.hv1:hover{transform:translateY(-6px) !important}
+.hv2:hover{transform:scale(1.04) !important;background:#1F1E1C !important;color:#F3EBE2 !important}
